@@ -8,7 +8,7 @@ class Config(Config):
     TG_BOT_TOKEN = "1517237594:AAH-GEv77diKjEndhl_TqjuUBMmbBIxQSIo"
     APP_ID = 2736181
     API_HASH =  "1b65fc52e6ce52f627d16160b652b705"
-    OWNER_ID =  1253939746
+    OWNER_ID =  
     AUTH_CHANNEL = [-1001421711252]
     DESTINATION_FOLDER = "" #Name of your folder read readme(not id of the folder)
     #Just don't fill RCLONE_CONFIG vars, insted copy your rclone.conf file in root directory
