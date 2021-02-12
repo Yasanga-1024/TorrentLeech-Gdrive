@@ -5,7 +5,7 @@ from tobrot.sample_config import Config
 #FOR CUSTOM COMMANDS READ REAME AND FILL THEM...
 
 class Config(Config):
-    TG_BOT_TOKEN = "1392326827:AAFQ4gGUbTiI-8u1O_OwVaCOXC9Xo6ttq4o"
+    TG_BOT_TOKEN = "1517237594:AAH-GEv77diKjEndhl_TqjuUBMmbBIxQSIo"
     APP_ID = 2736181
     API_HASH =  "1b65fc52e6ce52f627d16160b652b705"
     OWNER_ID =  1253939746
